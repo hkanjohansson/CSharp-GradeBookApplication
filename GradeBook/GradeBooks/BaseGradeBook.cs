@@ -9,7 +9,7 @@ using Newtonsoft.Json.Linq;
 
 namespace GradeBook.GradeBooks
 {
-    // Module completed
+    // Module completed!
     public class BaseGradeBook
     {
         public string Name { get; set; }
